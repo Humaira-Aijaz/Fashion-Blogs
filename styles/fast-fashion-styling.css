@@ -1,7 +1,8 @@
 header {background-color:rgb(225, 245, 203); padding: 5px 5px 5px 5px; text-align: center;}
 body {background-color: rgb(150, 181, 137);}
-nav {text-align:center; padding: 10px; background-color:rgba(119, 249, 128, 0.534)}
+nav {text-align:center; padding: 5px; background-color:rgba(119, 249, 128, 0.534)}
 nav a {margin:15px; text-decoration: none; border-color: rgb(18, 125, 3);}
+nav a:hover{background-color: #e5efdb; color: rgb(85, 180, 17);}
 .intro {
     display: flex;
     align-items:baseline;
