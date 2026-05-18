@@ -1,16 +1,18 @@
-header {background-color:rgb(165, 207, 245); padding: 5px 5px 5px 5px; text-align: center;}
-body {background-color: rgb(209, 228, 245);}
-nav {text-align:center; padding: 10px; background-color:rgba(137, 186, 228, 0.534)}
-nav a {margin:15px; text-decoration: none; border-color: rgb(35, 140, 231);}
+header {background-color:rgb(225, 245, 203); padding: 5px 5px 5px 5px; text-align: center;}
+body {background-color: rgb(150, 181, 137);}
+nav {text-align:center; padding: 10px; background-color:rgba(119, 249, 128, 0.534)}
+nav a {margin:15px; text-decoration: none; border-color: rgb(18, 125, 3);}
 .intro {
     display: flex;
     align-items:baseline;
     justify-content:flex-start;
     padding: 20px;}
 .intro div {width: 60%;}
-.about-platform {color: rgb(31, 95, 151);}
-h1, h2, h3, h4 {color: orange}
-table {border: black; border-collapse:collapse; margin-top: 2%; margin-bottom: 2%;}
-thead {background-color: rgb(165, 207, 245); padding: 12px; border: 1px solid black; text-align: left;}
-th {background-color: rgb(165, 207, 245); padding: 12px; border: 1px solid black; text-align: left;}
+.about-platform {color: rgb(119, 249, 128, 0.534);}
+h1 {color:orange; text-decoration: underline;}
+h2, h3, h4 {color: rgb(251, 249, 246); padding: 5px; text-decoration: underline;}
+p {padding: 5px 5px 5px 5px}
+table {border: black; border-collapse:collapse; margin-top: 2%; margin-bottom: 2%; padding-bottom: 5px;}
+thead {background-color: rgb(86, 239, 9); padding: 12px; border: 1px solid black; text-align: left;}
 td {padding: 10px; border: 1px solid black}
+.div1 {background-color: rgb(119, 249, 128, 0.534); padding-bottom: 5px;}
